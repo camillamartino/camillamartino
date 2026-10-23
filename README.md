@@ -14,7 +14,7 @@ My interests lie in bridging theoretical engineering analysis with practical spa
 ## Experience
 
 ### PoliSpace | CubeSat Project
-**Systems Engineering & AIVT – Software and Electronics**
+**Systems Engineering & AIVT – Software**
 
 As a member of the PoliSpace CubeSat team, I contribute to the development and integration of spacecraft subsystems, with a particular focus on software and electronics.
 
